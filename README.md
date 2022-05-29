@@ -1,6 +1,26 @@
-## iOS 커리어 스타터 캠프
+## 계산기 프로젝트 저장소
+#### 프로젝트 핵심경험
+- [X]  TDD 시작하기
+- [X]  기존의 프로젝트에 Test Target 추가
+- [X]  Queue 자료구조의 이해와 구현
+- [X]  List 자료구조 직접 구현해보기(선택)
+- [X]  리스트를 활용하여 Queue 구현(선택)
+- [X]  UML을 기반으로 한 코드구현
+- [X]  숫자와 연산자 입력에 큐 활용
+- [X]  TDD를 기반으로 코드 작성하기(선택)
+- [X]  IBOutlet / IBAction의 활용
+- [X]  스택뷰의 활용
+- [X]  스크롤뷰의 활용
 
-### 계산기 프로젝트 저장소
+#### 프로젝트를 수행함에 있어 읽고 참고한 문서
+
+- [X] 야곰의 재미난 컴퓨터 이야기 PART II : 캠핑사이트 Course - Common
+- [X]  [Swift Language Guide - Protocols](https://quick-face-098.notion.site/Protocols-85a55d35639046e4a015e92bc187be84)
+- [X]  [Swift Language Guide - Extentions](https://quick-face-098.notion.site/Extension-adbb6b346d5e4839ad358d64dfdaa49f)
+- [X]  [Swift Language Guide - Error Handling](https://quick-face-098.notion.site/Error-Handling-61708e145ddd449485b8ba188a59380f)
+- [X]  [Swift Language Guide - Closures ](https://quick-face-098.notion.site/Closures-d041ee09871446adae42516d70fe9a5c)
+- [X]  [Swift Language Guide - Advanced Operators ](https://quick-face-098.notion.site/Advanced-Operators-24a9576ba94142fe8f3aeece4528b96a)
+- [X]  [Swift Language Guide - ARC ](https://quick-face-098.notion.site/ARC-Automatic-Reference-Counting-dde282829d5847cd91ec6595a22977d1)
 
 # [Step 01] 
 
